@@ -1,0 +1,2 @@
+# LenghtCounter
+JavaScript
